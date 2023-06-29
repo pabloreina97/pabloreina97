@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola, soy Pablo Reina 👋
 
-<!--
-**pabloreina97/pabloreina97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador backend y analista de datos, con habilidades en Python, Django, Flutter y varias herramientas de análisis de datos. Siempre estoy buscando formas de mejorar mis habilidades y aprender más.
 
-Here are some ideas to get you started:
+## Mis habilidades 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo backend: Python, Django
+- Desarrollo de aplicaciones móviles: Flutter
+- Bases de datos: MySQL, PostgreSQL, SQL Server
+- Análisis de datos: R, Power BI, Pandas, Numpy
+- Técnicas de machine learning
+
+## Contacto 📫
+
+Puedes encontrarme en:
+- [LinkedIn](https://www.linkedin.com/in/pabloreina-ia/)
+
