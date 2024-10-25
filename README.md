@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Pablo Reina 👋
 
-<!--
-**pabloreina97/pabloreina97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software con sólidos conocimientos de **Python**, especialmente orientado al desarrollo de apps y servicios, en **Django REST Framework**, así como a la ciencia de datos. Para el frontend de mis apps, me encanta utilizar el potente framework para Android e iOS **Flutter**, en el que he desarrollado numerosas aplicaciones robustas y estéticas. También tengo conocimientos de HTML, CSS y JavaScript, principalmente con el React y NextJS, aunque me encanta explorar nuevos mundos en el desarrollo web.
 
-Here are some ideas to get you started:
+En cuanto a cloud, trabajo con Azure y tengo experiencia en AWS, principalmente enfocado al despliegue de aplicaciones y a procesos ETL y data warehousing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Siempre estoy buscando formas de mejorar mis habilidades y aprender más.
+
+## Mis habilidades 👨‍💻
+
+- Desarrollo backend: Python, Django REST Framework.
+- Desarrollo de aplicaciones móviles: Flutter (Clean Architecture, patrón MVC, Riverpod, autenticación)
+- Bases de datos: PostgreSQL, SQL Server, MongoDB
+- Análisis de datos: Pandas, Numpy, SciPy
+- Técnicas de machine learning (Scikit Learn)
+- Conocimientos de HTML, CSS y Javascript (React y NextJS)
+- Experiencia con Git
+- Metodologías ágiles (Scrum)
+- Linux
+
+## Contacto 📫
+
+Puedes encontrarme en:
+- [LinkedIn](https://www.linkedin.com/in/preina/)
