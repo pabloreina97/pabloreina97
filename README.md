@@ -1,24 +1,44 @@
-# Hola, soy Pablo Reina 👋
+# ¡Hola! Soy Pablo Reina 👋  
 
-Soy desarrollador de software con sólidos conocimientos de **Python**, especialmente orientado al desarrollo de apps y servicios, en **Django REST Framework**, así como a la ciencia de datos. Para el frontend de mis apps, me encanta utilizar el potente framework para Android e iOS **Flutter**, en el que he desarrollado numerosas aplicaciones robustas y estéticas. También tengo conocimientos de HTML, CSS y JavaScript, principalmente con el React y NextJS, aunque me encanta explorar nuevos mundos en el desarrollo web.
+<div style="width: 100%; height: 200px; overflow: hidden; position: relative; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/8e68fc91-42f3-443e-a601-d049f2d844b6" alt="Foto de Pablo" style="width: auto; height: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%);"/>
+</div>
 
-En cuanto a cloud, trabajo con Azure y tengo experiencia en AWS, principalmente enfocado al despliegue de aplicaciones y a procesos ETL y data warehousing.
 
-Siempre estoy buscando formas de mejorar mis habilidades y aprender más.
+## 🛠 Sobre mí  
+Desde siempre he tenido mucho afán por la programación. Siempre me ha llamado la atención la increíble capacidad de crear, solucionar y mejorar todo a través de un ordenador. Con el tiempo, he ido adquiriendo conocimientos y profundizando en el desarrollo de software, y cada vez me gusta más.
 
-## Mis habilidades 👨‍💻
+Mi lenguaje favorito es **Python**. Con **Django REST Framework**, puedo desarrollar APIs robustas y efectivas en un plazo razonable de tiempo, y en el frontend suelo usar **React** con **NextJS**. No me olvido de **Tailwind CSS** para el estilo, ya que soy bastante exigente con el diseño (todo lo que hago me gusta que entre por los ojos). También he creado algunas aplicaciones en **Flutter** para Android e iOS.
 
-- Desarrollo backend: Python, Django REST Framework.
-- Desarrollo de aplicaciones móviles: Flutter (Clean Architecture, patrón MVC, Riverpod, autenticación)
-- Bases de datos: PostgreSQL, SQL Server, MongoDB
-- Análisis de datos: Pandas, Numpy, SciPy
-- Técnicas de machine learning (Scikit Learn)
-- Conocimientos de HTML, CSS y Javascript (React y NextJS)
-- Experiencia con Git
-- Metodologías ágiles (Scrum)
-- Linux
+A nivel profesional, me dedico al análisis de datos y procesos en la nube, con un enfoque práctico en **ETL** y **ELT**, **data warehousing** en **AWS** y **CGP**. Siempre estoy buscando nuevos retos y aprendiendo cosas nuevas para seguir creciendo. 🚀
 
-## Contacto 📫
+---
 
-Puedes encontrarme en:
-- [LinkedIn](https://www.linkedin.com/in/preina/)
+## 💡 Mis habilidades  
+### Backend  
+- 🐍 **Python**: Django REST Framework
+
+### Frontend  
+- 🌐 **HTML, CSS, JavaScript**: React, NextJS  
+
+### Aplicaciones móviles  
+- 📱 **Flutter**: Clean Architecture, MVC, Riverpod, autenticación  
+
+### Bases de datos  
+- 🛢 **PostgreSQL**, SQL Server, MongoDB  
+
+### Ciencia de datos  
+- 📊 **Análisis de datos**: Pandas, Numpy, SciPy, PySpark
+- 🤖 **Machine Learning**: Scikit Learn
+
+### Por último, pero no menos importante
+- 🧰 **Git**, **Scrum**, **Linux**, **Docker**
+
+---
+
+## 🌐 Encuéntrame  
+<div align="center">
+  <a href="https://www.linkedin.com/in/preina" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 40px; margin: 0 10px;"/>
+  </a>
+</div>
