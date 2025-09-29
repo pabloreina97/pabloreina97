@@ -4,7 +4,7 @@
 
 I'm passionate about building data platforms that actually *work* — clean architectures, scalable pipelines, and fast answers. My sweet spot? Dimensional modeling, orchestration with **Prefect** and **Airflow**, and dbt-powered transformations that keep things modular and maintainable.
 
-I mostly work in the cloud (think **AWS** and **GCP**), designing robust ETL/ELT workflows and warehouse architectures that teams can rely on.
+I mostly work in the cloud (think **GCP** and **AWS**), designing robust ETL/ELT workflows and warehouse architectures that teams can rely on.
 
 ### 🧠 I care about:
 - Turning raw data into clear decisions
