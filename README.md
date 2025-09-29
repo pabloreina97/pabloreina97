@@ -1,37 +1,36 @@
-# ¡Hola! Soy Pablo Reina 👋  
+# 👋 Hey! I'm Pablo Reina
 
-## 🛠 Sobre mí  
-Desde pequeño he tenido afán por la programación. Siempre me ha llamado la atención la increíble capacidad de crear, solucionar y mejorar todo a través de un ordenador. Con el tiempo, he ido adquiriendo conocimientos y profundizando en el desarrollo de software, y cada vez me gusta más.
+## 🚀 Data Engineer focused on cloud, modeling, and automation
 
-Mi lenguaje favorito es **Python**. Con **Django REST Framework**, puedo desarrollar APIs robustas y efectivas en un plazo razonable de tiempo, y en el frontend suelo usar **React** con **NextJS**. No me olvido de **Tailwind CSS** para el estilo, ya que soy bastante exigente con el diseño (todo lo que hago me gusta que entre por los ojos). También he creado algunas aplicaciones en **Flutter** para Android e iOS.
+I'm passionate about building data platforms that actually *work* — clean architectures, scalable pipelines, and fast answers. My sweet spot? Dimensional modeling, orchestration with **Prefect** and **Airflow**, and dbt-powered transformations that keep things modular and maintainable.
 
-A nivel profesional, me dedico al análisis de datos y procesos en la nube, con un enfoque práctico en **ETL** y **ELT**, **data warehousing** en **AWS** y **CGP**. Siempre estoy buscando nuevos retos y aprendiendo cosas nuevas para seguir creciendo. 🚀
+I mostly work in the cloud (think **AWS** and **GCP**), designing robust ETL/ELT workflows and warehouse architectures that teams can rely on.
 
-## 💡 Mis habilidades  
-### Backend  
-- 🐍 **Python**: Django REST Framework
+### 🧠 I care about:
+- Turning raw data into clear decisions
+- Elegant code that performs
+- Automating the boring stuff (because... life’s too short)
 
-### Frontend  
-- 🌐 **HTML, CSS, JavaScript**: React, NextJS, Astro  
-
-### Mobile  
-- 📱 **Flutter**: Clean Architecture, MVC, Riverpod, autenticación...  
-
-### Databases  
-- 🛢 **PostgreSQL**, MongoDB  
+## 🛠 Tech I use a lot
 
 ### Data Engineering & Cloud
-- ☁️ **AWS**
-- 📈 **ETL** y **datawarehousing**: dbt, BigQuery
-- 📊 **Análisis de datos**: Pandas, Numpy, SciPy, PySpark
-- 🤖 **Machine Learning**: Scikit Learn
+- **ETL/ELT**: dbt, Prefect, Airflow
+- **Cloud Platforms**: GCP (BigQuery, Dataflow), AWS (Redshift, S3, Lambda, EC2)
+- **Data Modeling**: Star schemas, snowflake schemas, versioned & auditable layers
 
-### Por último, pero no menos importante
-- 🧰 **Git**, **Scrum**, **Linux**, **Docker**
+### Programming & Processing
+- **Python** (all day, every day)
+- **Advanced SQL**
+- **PySpark** for distributed data wrangling
 
-## 🌐 Encuéntrame  
-<div>
-  <a href="https://www.linkedin.com/in/preina" target="_blank">
-    LinkedIn
-  </a>
-</div>
+### Analytics & Viz
+- **Pandas**, **NumPy**, **SciPy**
+- Ready to plug into any BI tool
+
+### Bonus Skills (because why not?)
+- **Backend**: Django REST Framework, Firebase and Supabase
+- **Frontend**: React, Next.js, Astro, Tailwind
+- **Mobile**: Flutter + Clean Architecture
+
+## 🌐 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/preina)
